@@ -40,6 +40,16 @@ resulting in 30 features. For instance, field 3 is Mean Radius, field
   <img width="500" height="400" src="https://user-images.githubusercontent.com/59098432/205474024-b4dba06b-85dc-477d-bd2e-2710a062e527.png">
 </p>
 
+A plausible step is to analyze the correlations between the features and the diagnosis to understand which ones deserve focus to predict the diagnosis. The next analysis were built using only mean columns (columns 0 to 12).
+
+<h3 align="center">Correlations between features</h3>
+
+<p align="center">
+  <img width="500" height="400" src="https://user-images.githubusercontent.com/59098432/205523762-05695d25-4d29-4622-b34f-4353da5da6e3.png">
+</p>
+
+
+
 
 
 
