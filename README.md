@@ -34,4 +34,13 @@ resulting in 30 features. For instance, field 3 is Mean Radius, field
   <img width="2000" height="180" src="https://user-images.githubusercontent.com/59098432/205473353-886a9956-c2dd-4298-912b-4556b30816e6.png">
 </p>
 
+<h3 align="center">Number of occurencies by each diagnosis</h3>
+
+<p align="center">
+  <img width="500" height="400" src="https://user-images.githubusercontent.com/59098432/205474024-b4dba06b-85dc-477d-bd2e-2710a062e527.png">
+</p>
+
+
+
+
 
