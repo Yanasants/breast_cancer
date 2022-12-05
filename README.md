@@ -37,7 +37,7 @@ resulting in 30 features. For instance, field 3 is Mean Radius, field
 <h3 align="center">Number of occurencies by each diagnosis</h3>
 
 <p align="center">
-  <img width="500" height="400" src="https://user-images.githubusercontent.com/59098432/205474024-b4dba06b-85dc-477d-bd2e-2710a062e527.png">
+  <img width="500" height="400" src="https://user-images.githubusercontent.com/59098432/205528781-d212e394-5dfd-4690-a348-6381c2ead7b1.png">
 </p>
 
 A plausible step is to analyze the correlations between the features and the diagnosis to understand which ones deserve focus to predict the diagnosis. The next analysis were built using only mean columns (columns 0 to 12).
@@ -46,6 +46,20 @@ A plausible step is to analyze the correlations between the features and the dia
 
 <p align="center">
   <img width="900" height="400" src="https://user-images.githubusercontent.com/59098432/205526529-aa2af0d2-e268-4782-868f-7b87698b5e76.png">
+</p>
+
+This way is possible to focus on features with larger correlation with diagnosis, like *mean concave points* and *mean perimeter*.
+
+<h3 align="center">Mean Concave Points Distribution by Diagnosis</h3>
+
+<p align="center">
+  <img width="700" height="400" src="https://user-images.githubusercontent.com/59098432/205528142-9c90f92b-f8f0-4869-8780-dfbc6bbc11ee.png">
+</p>
+
+<h3 align="center">Diagnosis on correlation between mean concave points and mean perimeter</h3>
+
+<p align="center">
+  <img width="700" height="500" src="https://user-images.githubusercontent.com/59098432/205528973-814eec36-79c9-4fa0-b3fa-3a3dc9f3b429.png">
 </p>
 
 
