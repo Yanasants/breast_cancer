@@ -50,10 +50,10 @@ A plausible step is to analyze the correlations between the features and the dia
 
 This way is possible to focus on features with larger correlation with diagnosis, like *mean concave points* and *mean perimeter*.
 
-<h3 align="center">Mean Concave Points Distribution by Diagnosis</h3>
+<h3 align="center">Mean Concave Points and Mean Perimeter Distribution by Diagnosis</h3>
 
 <p align="center">
-  <img width="700" height="400" src="https://user-images.githubusercontent.com/59098432/205528142-9c90f92b-f8f0-4869-8780-dfbc6bbc11ee.png">
+  <img width="900" height="400" src="https://user-images.githubusercontent.com/59098432/205529737-ce9e7060-c540-449b-a2ac-66663ba4fe7f.png">
 </p>
 
 <h3 align="center">Diagnosis on correlation between mean concave points and mean perimeter</h3>
