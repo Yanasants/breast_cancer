@@ -48,7 +48,7 @@ A plausible step is to analyze the correlations between the features and the dia
   <img width="900" height="400" src="https://user-images.githubusercontent.com/59098432/205526529-aa2af0d2-e268-4782-868f-7b87698b5e76.png">
 </p>
 
-This way is possible to focus on features with larger correlation with diagnosis, like *mean concave points* and *mean perimeter*.
+This way is possible to focus on features with larger correlation with diagnosis, like *mean concave points*, *mean perimeter* and *mean area*.
 
 <h3 align="center">Mean Concave Points and Mean Perimeter Distribution by Diagnosis</h3>
 
@@ -61,6 +61,8 @@ This way is possible to focus on features with larger correlation with diagnosis
 <p align="center">
   <img width="700" height="500" src="https://user-images.githubusercontent.com/59098432/205528973-814eec36-79c9-4fa0-b3fa-3a3dc9f3b429.png">
 </p>
+
+Analyzing both data visualization, it is plausible to see that mean concave points and mean perimeter of malign cases are way larger than the benign ones.
 
 
 
