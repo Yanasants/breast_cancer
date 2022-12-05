@@ -45,7 +45,7 @@ A plausible step is to analyze the correlations between the features and the dia
 <h3 align="center">Correlations between features</h3>
 
 <p align="center">
-  <img width="500" height="400" src="https://user-images.githubusercontent.com/59098432/205523762-05695d25-4d29-4622-b34f-4353da5da6e3.png">
+  <img width="900" height="400" src="https://user-images.githubusercontent.com/59098432/205526529-aa2af0d2-e268-4782-868f-7b87698b5e76.png">
 </p>
 
 
